@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Andrey_Chuyan)  
   [![DevOps Telegram Channel](https://img.shields.io/badge/DevOps_Channel-26A5E4?logo=telegram&logoColor=white)](https://t.me/IT_Chuyana)  
-  [![Habr](https://img.shields.io/badge/Habr-4B8DF8?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMmYyYjY4IiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZGF0YS1uYW1lPSJMYXllciAxIj48cGF0aCBkPSJNMiAyMEgyMUExIDAgMDAyMyAyMVYyMkExIDAgMDAyMiAyM0gydjEwYTEgMSAwIDAxMS0xSDE4YTEgMSAwIDAwMC0ySDEzYTEgMSAwIDAwMC0ySDhhMSAxIDAgMDAwLTJINmExIDEgMCAwIDAtMSAxWk0yMiAxNUMyMS4zMiAxNSA0IDE1IDQgMTV2MkMyMDEuMzIgMTcgMjEgMTEuMzIgMjEgMTUgSDEzYTEgMSAwIDAwMC0ySDhhMSAxIDAgMDAwLTIiPjwvcGF0aD48L3N2Zz4=)](https://habr.com/ru/users/andrey_chuyan/)
+  [![Habr](https://img.shields.io/badge/Habr-4B8DF8?logo=habr)](https://habr.com/ru/users/andrey_chuyan/)
 - ⚡️ Fun fact: I love sharing knowledge, lead online courses and always eager to take on new challenges!
