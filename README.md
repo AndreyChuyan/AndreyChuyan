@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Andrey_Chuyan)  
   [![DevOps Telegram Channel](https://img.shields.io/badge/DevOps_Channel-26A5E4?logo=telegram&logoColor=white)](https://t.me/IT_Chuyana)  
-  [![Habr](https://img.shields.io/badge/Habr-4B8DF8?logo=habr)](https://habr.com/ru/users/andrey_chuyan/)
+  [<img alt="Habr" src="https://raw.githubusercontent.com/AndreyChuyan/AndreyChuyan/main/habr_logo.png" width="20"/> Habr](https://habr.com/ru/users/andrey_chuyan/)
 - ⚡️ Fun fact: I love sharing knowledge, lead online courses and always eager to take on new challenges!
