@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on infrastructure improvements, SRE/DevOps implementations, and IT process audits.
 - 🌱 I’m currently learning new DevOps and SRE tools and best practices.
 - 👯 I’m looking to collaborate on educational projects and complex IT infrastructure solutions.
-- 🤔 I’m looking for help with sharing fresh insights about DevOps adoption in enterprise IT.
+- 🤔 I’m offering help with sharing fresh insights about DevOps adoption in enterprise IT.
 - 💬 Ask me about: IT management, DevOps/SRE, network solutions, technical education.
 - 📫 How to reach me:  
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Andrey_Chuyan)  
